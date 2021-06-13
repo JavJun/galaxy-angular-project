@@ -1,0 +1,22 @@
+
+.form__field {
+  font-family: inherit;
+  width: 100%;
+  border: 0;
+  /*border-bottom: 2px solid #9b9b9b;*/
+  /*border-bottom: 1px solid #9b9b9b4a;*/
+  /*font-size: 1.3rem;*/
+  border-bottom: 1px solid #9b9b9b2b;
+  color: var(--charcoal);
+  padding: 7px 5px;
+  background: transparent;
+  transition: border-color 0.2s;
+  border-radius: .25rem;
+  margin-top: 3px !important;
+  
+}
+
+.form-text{
+  font-size: 12px!important;
+  color: var(--slate)!important;
+}

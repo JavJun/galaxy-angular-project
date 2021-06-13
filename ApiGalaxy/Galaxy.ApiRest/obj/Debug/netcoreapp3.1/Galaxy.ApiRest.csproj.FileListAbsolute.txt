@@ -1,0 +1,463 @@
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.exe
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.deps.json
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.runtimeconfig.json
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.runtimeconfig.dev.json
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.pdb
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.AssemblyInfoInputs.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.AssemblyInfo.cs
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.RazorTargetAssemblyInfo.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\staticwebassets\Galaxy.ApiRest.StaticWebAssets.Manifest.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\staticwebassets\Galaxy.ApiRest.StaticWebAssets.xml
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.pdb
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.genruntimeconfig.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.csproj.CopyComplete
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.MSSqlServer.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.csprojAssemblyReference.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.csproj.CoreCompileInputs.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Sesion01\Fuente\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.exe
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.deps.json
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.runtimeconfig.json
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.runtimeconfig.dev.json
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.pdb
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.MSSqlServer.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.AssemblyInfoInputs.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.AssemblyInfo.cs
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.csproj.CoreCompileInputs.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.RazorTargetAssemblyInfo.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.csproj.CopyComplete
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\staticwebassets\Galaxy.ApiRest.StaticWebAssets.Manifest.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\staticwebassets\Galaxy.ApiRest.StaticWebAssets.xml
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.pdb
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.genruntimeconfig.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Final\Galaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.csprojAssemblyReference.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.exe
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.deps.json
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.runtimeconfig.json
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.runtimeconfig.dev.json
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.pdb
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.MSSqlServer.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.AssemblyInfoInputs.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.AssemblyInfo.cs
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.csproj.CoreCompileInputs.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.RazorTargetAssemblyInfo.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.csproj.CopyComplete
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\staticwebassets\Galaxy.ApiRest.StaticWebAssets.Manifest.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\staticwebassets\Galaxy.ApiRest.StaticWebAssets.xml
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.dll
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.pdb
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.genruntimeconfig.cache
+D:\Cursos\Galaxy\NetCoreAngular5\Angular\Sesion04\Avance\BackEnd\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.csprojAssemblyReference.cache
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.exe
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.deps.json
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.runtimeconfig.json
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.runtimeconfig.dev.json
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.pdb
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.MSSqlServer.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.csprojAssemblyReference.cache
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.AssemblyInfoInputs.cache
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.AssemblyInfo.cs
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.csproj.CoreCompileInputs.cache
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\staticwebassets\Galaxy.ApiRest.StaticWebAssets.Manifest.cache
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\staticwebassets\Galaxy.ApiRest.StaticWebAssets.xml
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\scopedcss\bundle\Galaxy.ApiRest.styles.css
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.RazorTargetAssemblyInfo.cache
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.csproj.CopyComplete
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.pdb
+C:\Users\aviru\Desktop\Junnyor\Galaxy\BackAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.genruntimeconfig.cache
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.csprojAssemblyReference.cache
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.AssemblyInfoInputs.cache
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.AssemblyInfo.cs
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.csproj.CoreCompileInputs.cache
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.pdb
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.exe
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.deps.json
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.runtimeconfig.json
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.runtimeconfig.dev.json
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Galaxy.ApiRest.pdb
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.MSSqlServer.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\staticwebassets\Galaxy.ApiRest.StaticWebAssets.Manifest.cache
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\staticwebassets\Galaxy.ApiRest.StaticWebAssets.xml
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\scopedcss\bundle\Galaxy.ApiRest.styles.css
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.RazorTargetAssemblyInfo.cache
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.csproj.CopyComplete
+C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest\obj\Debug\netcoreapp3.1\Galaxy.ApiRest.genruntimeconfig.cache

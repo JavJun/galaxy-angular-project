@@ -1,0 +1,168 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "version": 1,
+  "newProjectRoot": "libs",
+  "projects": {
+    "app-movies": {
+      "projectType": "application",
+      "schematics": {
+        "@schematics/angular:component": {
+          "style": "scss"
+        }
+      },
+      "root": "apps/app-movies",
+      "sourceRoot": "apps/app-movies/src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/app-movies",
+            "index": "apps/app-movies/src/index.html",
+            "main": "apps/app-movies/src/main.ts",
+            "polyfills": "apps/app-movies/src/polyfills.ts",
+            "tsConfig": "apps/app-movies/tsconfig.app.json",
+            "aot": true,
+            "assets": [
+              "apps/app-movies/src/favicon.ico",
+              "apps/app-movies/src/assets"
+            ],
+            "styles": [
+              "apps/app-movies/src/styles.scss"
+            ],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "apps/app-movies/src/environments/environment.ts",
+                  "with": "apps/app-movies/src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "app-movies:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "app-movies:build:production"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "app-movies:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "apps/app-movies/src/test.ts",
+            "polyfills": "apps/app-movies/src/polyfills.ts",
+            "tsConfig": "apps/app-movies/tsconfig.spec.json",
+            "karmaConfig": "apps/app-movies/karma.conf.js",
+            "assets": [
+              "apps/app-movies/src/favicon.ico",
+              "apps/app-movies/src/assets"
+            ],
+            "styles": [
+              "apps/app-movies/src/styles.scss"
+            ],
+            "scripts": []
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "apps/app-movies/tsconfig.app.json",
+              "apps/app-movies/tsconfig.spec.json",
+              "apps/app-movies/e2e/tsconfig.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        },
+        "e2e": {
+          "builder": "@angular-devkit/build-angular:protractor",
+          "options": {
+            "protractorConfig": "apps/app-movies/e2e/protractor.conf.js",
+            "devServerTarget": "app-movies:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "app-movies:serve:production"
+            }
+          }
+        }
+      }
+    },
+    "components": {
+      "projectType": "library",
+      "root": "libs/components",
+      "sourceRoot": "libs/components/src",
+      "prefix": "jfv",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:ng-packagr",
+          "options": {
+            "tsConfig": "libs/components/tsconfig.lib.json",
+            "project": "libs/components/ng-package.json"
+          },
+          "configurations": {
+            "production": {
+              "tsConfig": "libs/components/tsconfig.lib.prod.json"
+            }
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "libs/components/src/test.ts",
+            "tsConfig": "libs/components/tsconfig.spec.json",
+            "karmaConfig": "libs/components/karma.conf.js"
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "libs/components/tsconfig.lib.json",
+              "libs/components/tsconfig.spec.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "defaultProject": "app-movies"
+}

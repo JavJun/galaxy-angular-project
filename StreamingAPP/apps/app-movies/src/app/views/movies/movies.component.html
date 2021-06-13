@@ -1,0 +1,38 @@
+
+<div class="row">
+  <div class="col-md-12"><h6>Filtros</h6></div>
+  <div class="col-12 col-md-3">
+    <div class="form__group field w-100 m-0">
+      <!-- <jfv-input brand="text" place="Nombre"></jfv-input> -->
+      <input type="text"
+class="form__field" placeholder="Fecha de lanzamineto" [(ngModel)]="name"
+/>
+    </div>
+  </div>
+  <div class="col-12 col-md-3">
+
+    <div class="form__group field w-100 m-0">
+      <input type="text"
+class="form__field" placeholder="Fecha de lanzamineto" [(ngModel)]="year"
+/>
+
+    </div>
+  </div>
+  <div class="col-12 col-md-3">
+    <div class="form__group field w-100 m-0">
+      <jfv-input brand="date" place="Fecha Inicio"></jfv-input>
+    </div>
+  </div>
+
+  <div class="col-12 col-md-3">
+    <div class="form__group field w-100 m-0">
+      <jfv-input brand="date" place="Fecha Fin"></jfv-input>
+    </div>
+  </div>
+
+
+</div>
+
+<app-movie-list [yearRealease]="year" [nameMovie]="name"></app-movie-list>
+
+

@@ -1,0 +1,42 @@
+<div class="bg-img">
+  <div class="content">
+    <header>Login Form</header>
+    <form #miForm="ngForm" (ngSubmit)="autentica(miForm,modalData)">
+      <div class="field">
+        <input type="text" placeholder="Usuario"
+                                [(ngModel)]="modelo.credencial"
+                                name="login"
+                                    required minlength="4" />
+      </div>
+      <div class="field space">
+        <input placeholder="Clave" type="password"
+                                [(ngModel)]="modelo.clave"
+                                    name="clave" required />
+        <span class="show">SHOW</span>
+      </div>
+     <div class="pass">
+      </div>
+      <div class="field">
+        <button class="btnJFL" type="submit"
+                [disabled]="!miForm.valid"
+                color="primary">Login</button>
+      </div>
+    </form>
+    <div class="signup">Don't have account?
+      <a href="#">Signup Now</a>
+    </div>
+  </div>
+</div>
+
+<ng-template #modalData let-modal>
+  <div class="modal-header">
+    <h4 class="modal-title" id="modal-basic-title">Error </h4>
+  </div>
+  <div class="modal-body">
+    <p>{{msg}}
+    </p>
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-danger" (click)="modal.close('Save click')">Close</button>
+  </div>
+</ng-template>

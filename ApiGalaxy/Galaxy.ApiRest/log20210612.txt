@@ -1,0 +1,321 @@
+2021-06-12 01:12:24.977 -05:00 [INF] User profile is available. Using 'C:\Users\aviru\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-06-12 01:12:25.281 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-12 01:12:25.281 -05:00 [INF] Hosting environment: Development
+2021-06-12 01:12:25.281 -05:00 [INF] Content root path: C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest
+2021-06-12 01:12:25.324 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:25632/weatherforecast  
+2021-06-12 01:12:25.792 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest)'
+2021-06-12 01:12:25.813 -05:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[Galaxy.ApiRest.WeatherForecast] Get() on controller Galaxy.ApiRest.Controllers.WeatherForecastController (Galaxy.ApiRest).
+2021-06-12 01:12:25.909 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 01:12:25.922 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.8105ms.
+2021-06-12 01:12:25.928 -05:00 [INF] Executing ObjectResult, writing value of type 'Galaxy.ApiRest.WeatherForecast[]'.
+2021-06-12 01:12:25.963 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest) in 143.6459ms
+2021-06-12 01:12:25.964 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest)'
+2021-06-12 01:12:25.966 -05:00 [INF] Request finished in 644.346ms 200 application/json; charset=utf-8
+2021-06-12 01:12:25.996 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:25632/favicon.ico  
+2021-06-12 01:12:26.028 -05:00 [INF] Request finished in 32.0067ms 404 
+2021-06-12 01:12:37.770 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 01:12:37.778 -05:00 [INF] CORS policy execution successful.
+2021-06-12 01:12:37.780 -05:00 [INF] Request finished in 10.8351ms 204 
+2021-06-12 01:12:37.783 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 42
+2021-06-12 01:12:37.784 -05:00 [INF] CORS policy execution successful.
+2021-06-12 01:12:37.787 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 01:12:37.797 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 01:12:38.424 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 01:12:58.941 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 20516.1524ms.
+2021-06-12 01:12:58.943 -05:00 [INF] Executing ObjectResult, writing value of type 'Galaxy.ApiRest.Models.BE.LoginResponseDTO'.
+2021-06-12 01:12:58.952 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 21154.691ms
+2021-06-12 01:12:58.952 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 01:12:58.954 -05:00 [INF] Request finished in 21171.3512ms 200 application/json; charset=utf-8
+2021-06-12 01:19:36.210 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 01:19:36.211 -05:00 [INF] CORS policy execution successful.
+2021-06-12 01:19:36.213 -05:00 [INF] Request finished in 2.8996ms 204 
+2021-06-12 01:19:36.215 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 42
+2021-06-12 01:19:36.216 -05:00 [INF] CORS policy execution successful.
+2021-06-12 01:19:36.217 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 01:19:36.218 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 01:19:36.268 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 01:19:41.117 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 4848.3847ms.
+2021-06-12 01:19:41.118 -05:00 [INF] Executing ObjectResult, writing value of type 'Galaxy.ApiRest.Models.BE.LoginResponseDTO'.
+2021-06-12 01:19:41.121 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 4900.511ms
+2021-06-12 01:19:41.131 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 01:19:41.132 -05:00 [INF] Request finished in 4916.7131ms 200 application/json; charset=utf-8
+2021-06-12 01:21:48.520 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 01:21:48.522 -05:00 [INF] CORS policy execution successful.
+2021-06-12 01:21:48.523 -05:00 [INF] Request finished in 12.0518ms 204 
+2021-06-12 01:21:48.536 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 42
+2021-06-12 01:21:48.537 -05:00 [INF] CORS policy execution successful.
+2021-06-12 01:21:48.538 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 01:21:48.538 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 01:21:48.572 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 01:21:52.442 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 3869.4356ms.
+2021-06-12 01:21:52.444 -05:00 [INF] Executing ObjectResult, writing value of type 'Galaxy.ApiRest.Models.BE.LoginResponseDTO'.
+2021-06-12 01:21:52.458 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 3918.8304ms
+2021-06-12 01:21:52.469 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 01:21:52.469 -05:00 [INF] Request finished in 3933.0456ms 200 application/json; charset=utf-8
+2021-06-12 02:52:22.406 -05:00 [INF] User profile is available. Using 'C:\Users\aviru\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-06-12 02:52:23.043 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-12 02:52:23.043 -05:00 [INF] Hosting environment: Development
+2021-06-12 02:52:23.044 -05:00 [INF] Content root path: C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest
+2021-06-12 02:52:23.160 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:25632/weatherforecast  
+2021-06-12 02:52:23.365 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest)'
+2021-06-12 02:52:23.421 -05:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[Galaxy.ApiRest.WeatherForecast] Get() on controller Galaxy.ApiRest.Controllers.WeatherForecastController (Galaxy.ApiRest).
+2021-06-12 02:52:23.634 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 02:52:23.651 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 2.157ms.
+2021-06-12 02:52:23.666 -05:00 [INF] Executing ObjectResult, writing value of type 'Galaxy.ApiRest.WeatherForecast[]'.
+2021-06-12 02:52:23.759 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest) in 324.1461ms
+2021-06-12 02:52:23.760 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest)'
+2021-06-12 02:52:23.765 -05:00 [INF] Request finished in 613.6008ms 200 application/json; charset=utf-8
+2021-06-12 02:52:23.802 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:25632/favicon.ico  
+2021-06-12 02:52:23.849 -05:00 [INF] Request finished in 46.7538ms 404 
+2021-06-12 02:52:35.209 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 02:52:35.215 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:52:35.218 -05:00 [INF] Request finished in 9.1343ms 204 
+2021-06-12 02:52:35.220 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 42
+2021-06-12 02:52:35.221 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:52:35.224 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:52:35.237 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 02:52:35.455 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 02:52:45.036 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 9581.1558ms.
+2021-06-12 02:52:45.037 -05:00 [INF] Executing ObjectResult, writing value of type 'Galaxy.ApiRest.Models.BE.LoginResponseDTO'.
+2021-06-12 02:52:45.041 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 9803.9186ms
+2021-06-12 02:52:45.041 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:52:45.042 -05:00 [INF] Request finished in 9822.7189ms 200 application/json; charset=utf-8
+2021-06-12 02:52:57.967 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 02:52:57.969 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:52:57.971 -05:00 [INF] Request finished in 3.7723ms 204 
+2021-06-12 02:52:57.973 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 42
+2021-06-12 02:52:57.974 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:52:57.975 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:52:57.976 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 02:52:58.008 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 02:52:58.009 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.5812ms.
+2021-06-12 02:52:58.009 -05:00 [INF] Executing ObjectResult, writing value of type 'Galaxy.ApiRest.Models.BE.LoginResponseDTO'.
+2021-06-12 02:52:58.010 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 33.4767ms
+2021-06-12 02:52:58.010 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:52:58.010 -05:00 [INF] Request finished in 37.9605ms 200 application/json; charset=utf-8
+2021-06-12 02:53:04.000 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 02:53:04.001 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:53:04.003 -05:00 [INF] Request finished in 2.9469ms 204 
+2021-06-12 02:53:04.005 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 39
+2021-06-12 02:53:04.006 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:53:04.007 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:53:04.008 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 02:53:04.031 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 02:53:04.031 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 0.1151ms.
+2021-06-12 02:53:04.032 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-12 02:53:04.035 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 26.8811ms
+2021-06-12 02:53:04.035 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:53:04.036 -05:00 [INF] Request finished in 31.2522ms 400 text/plain; charset=utf-8
+2021-06-12 02:55:15.800 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 02:55:15.801 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:55:15.802 -05:00 [INF] Request finished in 1.9512ms 204 
+2021-06-12 02:55:15.803 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 36
+2021-06-12 02:55:15.804 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:55:15.804 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:55:15.805 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 02:55:15.823 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 02:55:15.824 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 0.067ms.
+2021-06-12 02:55:15.824 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-12 02:55:15.825 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 19.9011ms
+2021-06-12 02:55:15.825 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:55:15.834 -05:00 [INF] Request finished in 22.5884ms 400 text/plain; charset=utf-8
+2021-06-12 02:55:23.044 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 02:55:23.045 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:55:23.047 -05:00 [INF] Request finished in 2.7144ms 204 
+2021-06-12 02:55:23.049 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 36
+2021-06-12 02:55:23.050 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:55:23.051 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:55:23.052 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 02:55:23.072 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 02:55:23.073 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 0.0508ms.
+2021-06-12 02:55:23.073 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-12 02:55:23.074 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 21.4607ms
+2021-06-12 02:55:23.075 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:55:23.082 -05:00 [INF] Request finished in 33.2998ms 400 text/plain; charset=utf-8
+2021-06-12 02:55:26.502 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 36
+2021-06-12 02:55:26.503 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:55:26.504 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:55:26.505 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 02:55:26.533 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 02:55:26.533 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 0.1ms.
+2021-06-12 02:55:26.534 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-12 02:55:26.535 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 29.4234ms
+2021-06-12 02:55:26.535 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:55:26.536 -05:00 [INF] Request finished in 34.1312ms 400 text/plain; charset=utf-8
+2021-06-12 02:56:49.177 -05:00 [INF] User profile is available. Using 'C:\Users\aviru\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-06-12 02:56:49.699 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-12 02:56:49.699 -05:00 [INF] Hosting environment: Development
+2021-06-12 02:56:49.700 -05:00 [INF] Content root path: C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest
+2021-06-12 02:56:49.787 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:25632/weatherforecast  
+2021-06-12 02:56:49.983 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest)'
+2021-06-12 02:56:50.044 -05:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[Galaxy.ApiRest.WeatherForecast] Get() on controller Galaxy.ApiRest.Controllers.WeatherForecastController (Galaxy.ApiRest).
+2021-06-12 02:56:50.229 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 02:56:50.249 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 3.0227ms.
+2021-06-12 02:56:50.260 -05:00 [INF] Executing ObjectResult, writing value of type 'Galaxy.ApiRest.WeatherForecast[]'.
+2021-06-12 02:56:50.333 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest) in 275.5719ms
+2021-06-12 02:56:50.336 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest)'
+2021-06-12 02:56:50.344 -05:00 [INF] Request finished in 560.4816ms 200 application/json; charset=utf-8
+2021-06-12 02:56:50.370 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:25632/favicon.ico  
+2021-06-12 02:56:50.413 -05:00 [INF] Request finished in 42.3777ms 404 
+2021-06-12 02:56:57.632 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 02:56:57.638 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:56:57.641 -05:00 [INF] Request finished in 8.6026ms 204 
+2021-06-12 02:56:57.643 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 40
+2021-06-12 02:56:57.644 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:56:57.646 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:56:57.658 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 02:56:57.839 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 02:56:57.841 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 1.8858ms.
+2021-06-12 02:56:57.842 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-12 02:56:57.844 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 185.774ms
+2021-06-12 02:56:57.844 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:56:57.846 -05:00 [INF] Request finished in 203.6684ms 400 text/plain; charset=utf-8
+2021-06-12 02:57:00.320 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 40
+2021-06-12 02:57:00.322 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:57:00.324 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:57:00.325 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 02:57:00.356 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 02:57:00.356 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 0.0995ms.
+2021-06-12 02:57:00.357 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-12 02:57:00.358 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 31.3743ms
+2021-06-12 02:57:00.358 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:57:00.358 -05:00 [INF] Request finished in 38.8643ms 400 text/plain; charset=utf-8
+2021-06-12 02:57:02.999 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 02:57:03.001 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:57:03.002 -05:00 [INF] Request finished in 3.933ms 204 
+2021-06-12 02:57:03.005 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 40
+2021-06-12 02:57:03.005 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:57:03.006 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:57:03.006 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 02:57:03.032 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 02:57:03.032 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 0.0687ms.
+2021-06-12 02:57:03.033 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-12 02:57:03.034 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 27.4954ms
+2021-06-12 02:57:03.034 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:57:03.034 -05:00 [INF] Request finished in 29.7397ms 400 text/plain; charset=utf-8
+2021-06-12 02:57:05.454 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 40
+2021-06-12 02:57:05.455 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:57:05.457 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:57:05.458 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 02:57:05.484 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 02:57:05.485 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 0.0802ms.
+2021-06-12 02:57:05.486 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-12 02:57:05.488 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 29.1687ms
+2021-06-12 02:57:05.488 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:57:05.488 -05:00 [INF] Request finished in 34.2144ms 400 text/plain; charset=utf-8
+2021-06-12 02:57:10.033 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 02:57:10.034 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:57:10.035 -05:00 [INF] Request finished in 2.843ms 204 
+2021-06-12 02:57:10.038 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 40
+2021-06-12 02:57:10.038 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:57:10.039 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:57:10.040 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 02:57:10.060 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 02:57:10.060 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 0.0599ms.
+2021-06-12 02:57:10.061 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-12 02:57:10.062 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 21.0719ms
+2021-06-12 02:57:10.062 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:57:10.062 -05:00 [INF] Request finished in 24.6388ms 400 text/plain; charset=utf-8
+2021-06-12 02:57:12.637 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 40
+2021-06-12 02:57:12.638 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:57:12.639 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:57:12.640 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 02:57:12.665 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 02:57:12.665 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 0.076ms.
+2021-06-12 02:57:12.665 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-12 02:57:12.666 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 26.3335ms
+2021-06-12 02:57:12.666 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:57:12.667 -05:00 [INF] Request finished in 30.2778ms 400 text/plain; charset=utf-8
+2021-06-12 02:57:25.247 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 02:57:25.247 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:57:25.249 -05:00 [INF] Request finished in 1.7996ms 204 
+2021-06-12 02:57:25.251 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 42
+2021-06-12 02:57:25.251 -05:00 [INF] CORS policy execution successful.
+2021-06-12 02:57:25.251 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:57:25.252 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 02:57:25.272 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 02:57:25.388 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 115.8429ms.
+2021-06-12 02:57:25.388 -05:00 [INF] Executing ObjectResult, writing value of type 'Galaxy.ApiRest.Models.BE.LoginResponseDTO'.
+2021-06-12 02:57:25.391 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 138.3277ms
+2021-06-12 02:57:25.391 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 02:57:25.391 -05:00 [INF] Request finished in 140.4772ms 200 application/json; charset=utf-8
+2021-06-12 11:34:52.193 -05:00 [INF] User profile is available. Using 'C:\Users\aviru\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-06-12 11:34:52.955 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-12 11:34:52.956 -05:00 [INF] Hosting environment: Development
+2021-06-12 11:34:52.956 -05:00 [INF] Content root path: C:\Users\aviru\Desktop\Junnyor\Galaxy\Angular 11 - Intermedio\ProjectAPP\ApiGalaxy\Galaxy.ApiRest
+2021-06-12 11:34:53.084 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:25632/weatherforecast  
+2021-06-12 11:34:53.310 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest)'
+2021-06-12 11:34:53.380 -05:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[Galaxy.ApiRest.WeatherForecast] Get() on controller Galaxy.ApiRest.Controllers.WeatherForecastController (Galaxy.ApiRest).
+2021-06-12 11:34:53.621 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 11:34:53.651 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 2.6637ms.
+2021-06-12 11:34:53.666 -05:00 [INF] Executing ObjectResult, writing value of type 'Galaxy.ApiRest.WeatherForecast[]'.
+2021-06-12 11:34:53.778 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest) in 381.663ms
+2021-06-12 11:34:53.780 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.WeatherForecastController.Get (Galaxy.ApiRest)'
+2021-06-12 11:34:53.786 -05:00 [INF] Request finished in 715.0315ms 200 application/json; charset=utf-8
+2021-06-12 11:34:53.985 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:25632/favicon.ico  
+2021-06-12 11:34:54.144 -05:00 [INF] Request finished in 158.9316ms 404 
+2021-06-12 11:41:08.877 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 11:41:08.926 -05:00 [INF] CORS policy execution successful.
+2021-06-12 11:41:08.930 -05:00 [INF] Request finished in 53.9407ms 204 
+2021-06-12 11:41:08.946 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 43
+2021-06-12 11:41:08.947 -05:00 [INF] CORS policy execution successful.
+2021-06-12 11:41:08.955 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 11:41:08.980 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 11:41:09.469 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 11:41:09.479 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 8.498ms.
+2021-06-12 11:41:09.480 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-12 11:41:09.486 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 505.6529ms
+2021-06-12 11:41:09.486 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 11:41:09.490 -05:00 [INF] Request finished in 556.4616ms 400 text/plain; charset=utf-8
+2021-06-12 11:41:24.316 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 11:41:24.318 -05:00 [INF] CORS policy execution successful.
+2021-06-12 11:41:24.319 -05:00 [INF] Request finished in 3.5011ms 204 
+2021-06-12 11:41:24.322 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 43
+2021-06-12 11:41:24.323 -05:00 [INF] CORS policy execution successful.
+2021-06-12 11:41:24.326 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 11:41:24.331 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 11:41:24.364 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 11:41:24.364 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 0.1376ms.
+2021-06-12 11:41:24.365 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-12 11:41:24.367 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 34.6817ms
+2021-06-12 11:41:24.367 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 11:41:24.368 -05:00 [INF] Request finished in 45.6555ms 400 text/plain; charset=utf-8
+2021-06-12 11:43:55.961 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 11:43:55.961 -05:00 [INF] CORS policy execution successful.
+2021-06-12 11:43:55.962 -05:00 [INF] Request finished in 9.5567ms 204 
+2021-06-12 11:43:55.964 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 44
+2021-06-12 11:43:55.965 -05:00 [INF] CORS policy execution successful.
+2021-06-12 11:43:55.966 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 11:43:55.966 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 11:43:55.985 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 11:43:55.985 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 0.0554ms.
+2021-06-12 11:43:55.985 -05:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-12 11:43:55.986 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 19.5164ms
+2021-06-12 11:43:55.987 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 11:43:55.993 -05:00 [INF] Request finished in 28.9732ms 400 text/plain; charset=utf-8
+2021-06-12 11:44:54.624 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 11:44:54.633 -05:00 [INF] CORS policy execution successful.
+2021-06-12 11:44:54.634 -05:00 [INF] Request finished in 9.9228ms 204 
+2021-06-12 11:44:54.635 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 42
+2021-06-12 11:44:54.635 -05:00 [INF] CORS policy execution successful.
+2021-06-12 11:44:54.636 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 11:44:54.636 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 11:44:54.656 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 11:44:54.802 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 145.4463ms.
+2021-06-12 11:44:54.802 -05:00 [INF] Executing ObjectResult, writing value of type 'Galaxy.ApiRest.Models.BE.LoginResponseDTO'.
+2021-06-12 11:44:54.807 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 170.3647ms
+2021-06-12 11:44:54.808 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 11:44:54.814 -05:00 [INF] Request finished in 179.2933ms 200 application/json; charset=utf-8
+2021-06-12 11:45:22.898 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:25632/api/auth  
+2021-06-12 11:45:22.899 -05:00 [INF] CORS policy execution successful.
+2021-06-12 11:45:22.900 -05:00 [INF] Request finished in 1.4522ms 204 
+2021-06-12 11:45:22.902 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:25632/api/auth application/json 42
+2021-06-12 11:45:22.910 -05:00 [INF] CORS policy execution successful.
+2021-06-12 11:45:22.910 -05:00 [INF] Executing endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 11:45:22.911 -05:00 [INF] Route matched with {action = "Valida", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Valida(Galaxy.ApiRest.Models.BE.LoginRequestDTO) on controller Galaxy.ApiRest.Controllers.AuthController (Galaxy.ApiRest).
+2021-06-12 11:45:22.930 -05:00 [INF] Executing action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) - Validation state: "Valid"
+2021-06-12 11:45:22.932 -05:00 [INF] Executed action method Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.8117ms.
+2021-06-12 11:45:22.932 -05:00 [INF] Executing ObjectResult, writing value of type 'Galaxy.ApiRest.Models.BE.LoginResponseDTO'.
+2021-06-12 11:45:22.934 -05:00 [INF] Executed action Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest) in 22.9646ms
+2021-06-12 11:45:22.934 -05:00 [INF] Executed endpoint 'Galaxy.ApiRest.Controllers.AuthController.Valida (Galaxy.ApiRest)'
+2021-06-12 11:45:22.935 -05:00 [INF] Request finished in 33.4739ms 200 application/json; charset=utf-8
